@@ -92,13 +92,3 @@ python train_model.py
 
 ---
 
-## ✅ Future Improvements
-- Expand to multi-class emotion classification (e.g., happy, sad, angry, etc.)
-- Experiment with transfer learning (e.g., ResNet, MobileNet)
-- Deploy as a web app using Streamlit
-
----
-
-## 📚 References
-- [KDEF Dataset Info](https://www.kdef.se/)
-- [TensorFlow Docs](https://www.tensorflow.org/)
